@@ -237,7 +237,7 @@ torch>=2.0.0
  All date calculations are anchored to August 19, 2024 (last recorded travel date in dataset). No current-date references are used — ensures full reproducibility regardless of when the pipeline is run. 
  random_state=53 used for all KMeans models throughout. 
  The .env file contains only placeholder values. Real PostgreSQL connection details must be supplied locally and must never be committed to version control. 
- Video presentation available at: TravelTide presentation [ https://youtu.be/dXK3shFiXhM ]
+ Video presentation available at: TravelTide presentation [ https://youtu.be/mC52mT-WfxE ]
  
  (see docs/presentation_video.md) 
  
