@@ -1,6 +1,6 @@
 # TravelTide Rewards Program presentation notes
 
-Video presentation can be found on [youtube](https://youtu.be/dXK3shFiXhM).
+Video presentation can be found on [youtube](https://youtu.be/mC52mT-WfxE).
 
 ## Slide 1 - Title slide
 Welcome everyone and thank you for your time.
